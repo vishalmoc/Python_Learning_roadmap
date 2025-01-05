@@ -46,8 +46,6 @@ print(type(a))
 b = 3.0
 print(type(b))
 
-# Python converts c to float 
-
 c = a + b
 print(c)
 print(type(c))
