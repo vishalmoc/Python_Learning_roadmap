@@ -1,5 +1,3 @@
-# Variables are like Containers that hold data
-# Variables can be updated i.e. they are dynamic not static
 
 a1=1
 B1=2
@@ -7,27 +5,15 @@ _c1=3
 # not 1c_=4
 print( a1, B1, _c1)
 print( "This is type of a1", type( a1))
-
-# Data type specifies the type of value a variable holds.
-
-'''
-5 types of data types
-1. Numeric:- int, float, complex
-2. String
-3. Boolean:- True, False
-4. Sequenced:- list- [], tuple- ()-> list is mutable( can be modified) and tuple is immutable( cannot be modified)
-5. Mapped:- dictionary
-'''
 print("Numeric Data Type= ",3," ",7.83," ",6+2j)
 print("String Data Type= ","This is Python String",'And we are learning Programming')
 print("Boolean Data Type= ",True)
 print("Sequenced Data Type= ",[12,15,16,18]," ",(11,14,17,19))
 print("Dictionary= ", {"name": "Rohan", "age": 25, "Student": True, "Stream": "MBA"})
 
-# Explicit typecasting- Done by user 
 string = "15"
 number = 7
-string_number = int(string) # throws an error if the string is not a valid integer
+string_number = int(string) 
 sum= number + string_number
 print("The Sum of both the numbers is: ", sum)
 
