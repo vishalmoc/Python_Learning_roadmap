@@ -32,7 +32,7 @@ def x1():
 	print('Inside x1() : ', a)
 def x2():
 	a = 2
-	print('Inside x2() : ', a)# Here a= 2 using local a
+	print('Inside x2() : ', a)
 def x3():
 	global a
 	a = 3
