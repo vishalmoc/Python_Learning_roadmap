@@ -36,7 +36,7 @@ def x2():
 def x3():
 	global a
 	a = 3
-	print('Inside x3() : ', a) # Here a= 3 using global a 'cos we have written global a first 
+	print('Inside x3() : ', a) 
 print('global : ', a)
 x1()
 print('global : ', a)
