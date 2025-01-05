@@ -1,4 +1,3 @@
-# Variables can be updated i.e. they are dynamic not static
 
 a1=1
 B1=2
