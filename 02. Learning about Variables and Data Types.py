@@ -27,7 +27,6 @@ c = a + b
 print(c)
 print(type(c))
 
-# Global and Local Variables
 # Variables that are defined inside a function body have a local scope, and those defined outside have a global scope
 
 a = 1
