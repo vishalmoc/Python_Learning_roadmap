@@ -1,4 +1,5 @@
 # Variables are like Containers that hold data
+
 # Variables can be updated i.e. they are dynamic not static
 
 a1=1
