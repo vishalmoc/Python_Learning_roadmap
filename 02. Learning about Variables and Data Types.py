@@ -43,5 +43,4 @@ print('global : ', a)
 x2()
 print('global : ', a)
 x3()
-print('global : ', a) # value of a has changed in function x3
-
+print('global : ', a) 
