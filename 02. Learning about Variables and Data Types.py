@@ -21,7 +21,6 @@ print("The Sum of both the numbers is: ", sum)
 a = 7
 print(type(a))
 
-# Python converts b to float
 b = 3.0
 print(type(b))
 
