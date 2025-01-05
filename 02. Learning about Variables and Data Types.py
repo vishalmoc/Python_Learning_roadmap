@@ -12,7 +12,6 @@ print("Boolean Data Type= ",True)
 print("Sequenced Data Type= ",[12,15,16,18]," ",(11,14,17,19))
 print("Dictionary= ", {"name": "Rohan", "age": 25, "Student": True, "Stream": "MBA"})
 
-# Explicit typecasting- Done by user 
 string = "15"
 number = 7
 string_number = int(string) # throws an error if the string is not a valid integer
