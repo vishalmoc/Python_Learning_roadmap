@@ -6,14 +6,6 @@ print( a1, B1, _c1)
 print( "This is type of a1", type( a1))
 
 
-'''
-5 types of data types
-1. Numeric:- int, float, complex
-2. String
-3. Boolean:- True, False
-4. Sequenced:- list- [], tuple- ()-> list is mutable( can be modified) and tuple is immutable( cannot be modified)
-5. Mapped:- dictionary
-'''
 print("Numeric Data Type= ",3," ",7.83," ",6+2j)
 print("String Data Type= ","This is Python String",'And we are learning Programming')
 print("Boolean Data Type= ",True)
