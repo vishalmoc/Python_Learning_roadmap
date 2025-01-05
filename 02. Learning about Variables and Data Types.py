@@ -2,11 +2,9 @@
 a1=1
 B1=2
 _c1=3
-# not 1c_=4
 print( a1, B1, _c1)
 print( "This is type of a1", type( a1))
 
-# Data type specifies the type of value a variable holds.
 
 '''
 5 types of data types
