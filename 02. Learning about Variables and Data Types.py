@@ -18,8 +18,6 @@ string_number = int(string)
 sum= number + string_number
 print("The Sum of both the numbers is: ", sum)
 
-# Implicit type casting- Done by Python automatically
-
 # Python converts a to int
 a = 7
 print(type(a))
